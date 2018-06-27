@@ -1,17 +1,12 @@
-## Welcome to GitHub Pages
+Welcome To Belleville Youth Centre Home Page
 
-You can use the [editor on GitHub](https://github.com/dliteracyprogram/github-pages-with-jekyll/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Belleville Youth Centre provides a safe and accepting environment for youth between the ages of 12 to 18 in the Belleville Area.   The BYC allows youth to reach their full potential by engaging in programming that promotes the engagement and development of new skills. Our dream is to become a centre that is designed by youth and driven by youth!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
+# Belleville Youth Centre
 ## Header 2
 ### Header 3
 
